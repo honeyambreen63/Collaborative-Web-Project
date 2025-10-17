@@ -14,9 +14,15 @@ To practice real teamwork on GitHub by creating individual HTML profile pages in
 
 ## 🧩 Group Structure
 Each group will consist of 3 members:
+<<<<<<< HEAD
 Ambreen Honey/
 Moomna Abbasi/
 Maryam Akmal/
+=======
+Ambreen honey
+Moomna Sagheer
+Maryam akmal
+>>>>>>> 902087937bd0c816e047bd7c5aee102bac9fad65
 Each member works only inside their assigned folder and creates a personal webpage named index.html.
 
 ---
