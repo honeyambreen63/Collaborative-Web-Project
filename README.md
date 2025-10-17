@@ -15,9 +15,15 @@ To practice real teamwork on GitHub by creating individual HTML profile pages in
 ## 🧩 Group Structure
 Each group will consist of 3 members:
 <<<<<<< HEAD
+<<<<<<< HEAD
 Ambreen Honey/
 Moomna Abbasi/
 Maryam Akmal/
+=======
+Ambreen honey/
+moomna abbasi/
+maryam akmal/
+>>>>>>> 87df515e4aabb8509f2c47d0809201f8f02ae9df
 =======
 Ambreen honey
 Moomna Sagheer
